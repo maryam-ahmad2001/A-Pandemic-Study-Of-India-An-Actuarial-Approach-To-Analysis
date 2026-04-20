@@ -30,8 +30,11 @@ The HIRD model (Hospitalised–Infectious–Recovered–Dead) extends the SEIR f
 ***Data & Tools***
 
 •	CovidDataSet.xlsx — time-series data on cases, deaths, and recoveries for India and reference countries
+
 •	IAI Pandemic Research Group analysis — actuarial methodology reference
+
 •	Excel-based model implementation with scenario projections
+
 ***Key Takeaways***
 
 The project produced forward-looking projections for India's August 2020 pandemic trajectory and offered a comparative analysis of how India's curve compared to the reference countries. It demonstrated the applicability of actuarial tools to emerging risk scenarios — a directly relevant skill for catastrophe modelling, where projecting tail risks and scenario outcomes under uncertainty is the core task.
