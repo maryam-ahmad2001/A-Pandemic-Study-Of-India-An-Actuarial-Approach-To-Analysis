@@ -3,9 +3,11 @@
 ***Overview***
 
 Conducted in 2020 at the height of the COVID-19 pandemic, this project applied actuarial modelling techniques to project the expected trajectory of COVID-19 cases, deaths, and recoveries in India for August 2020. The study used two epidemiological models — HIRD and SEIR — calibrated against observed data from five reference countries, and drew on IAI (Institute of Actuaries of India) pandemic research as a methodological reference.
+
 ***Motivation***
 
 During the early pandemic period, India faced enormous uncertainty about how the disease would evolve. Actuarial science, with its foundations in mortality modelling, risk quantification, and probabilistic forecasting, offered a rigorous framework for projecting epidemic curves. This project applied those tools to a live, real-world public health crisis.
+
 ***Reference Countries***
 
 Five countries were selected as comparators based on their stage in the pandemic at the time of analysis and their diversity of policy responses:
@@ -14,14 +16,17 @@ Five countries were selected as comparators based on their stage in the pandemic
 •	Italy — early severe outbreak in Europe
 •	Germany — strong healthcare infrastructure, moderate fatality curve
 •	USA — large population with highly variable outcomes by state
+
 ***Modelling Approach***
 
 **SEIR Model**
 
 The Susceptible–Exposed–Infectious–Recovered (SEIR) model is a compartmental epidemiological framework that tracks the flow of individuals through four disease states over time. Parameters including transmission rate (β), incubation period, and recovery rate (γ) were calibrated to Indian data and projected forward.
+
 **HIRD Model**
 
 The HIRD model (Hospitalised–Infectious–Recovered–Dead) extends the SEIR framework to explicitly model healthcare system load, providing projections not just of case counts but of hospital demand and mortality outcomes.
+
 ***Data & Tools***
 
 •	CovidDataSet.xlsx — time-series data on cases, deaths, and recoveries for India and reference countries
