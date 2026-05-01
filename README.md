@@ -11,10 +11,15 @@ During the early pandemic period, India faced enormous uncertainty about how the
 ***Reference Countries***
 
 Five countries were selected as comparators based on their stage in the pandemic at the time of analysis and their diversity of policy responses:
+
 •	South Korea — early containment success through testing and tracing
+
 •	Singapore — high-density urban management
+
 •	Italy — early severe outbreak in Europe
+
 •	Germany — strong healthcare infrastructure, moderate fatality curve
+
 •	USA — large population with highly variable outcomes by state
 
 ***Modelling Approach***
